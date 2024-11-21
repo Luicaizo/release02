@@ -25,7 +25,7 @@ function showCrud(crudId) {
                     <label>Título: <input type="text" required></label><br>
                     <label>Data de Emissão: <input type="date" required></label><br>
                     <label>Data de Vencimento: <input type="date"></label><br>
-                    <label>Arquivo: <input type="file" accept=".pdf,.docx" required></label><br>
+                    <label>Arquivo: <input type="file" accept=".pdf,.docx"></label><br>
                     <label>Observações: <textarea></textarea></label><br>
                     <button type="submit">Salvar</button>
                 </form>`;
